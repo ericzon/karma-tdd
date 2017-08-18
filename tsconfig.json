@@ -3,7 +3,7 @@
     "compilerOptions": {
         "module": "commonjs",
         "noImplicitAny": true,
-        "outDir": "tmp",
+        "outDir": "dist",
         "target": "ES5",
         "sourceMap": true,
         "types" : [
